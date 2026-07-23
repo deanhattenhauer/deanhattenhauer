@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dean Hattenhauer
 
-**Backend Developer — Python & Go**
+**Backend Developer & Infrastructure Engineer — Python & Go**
 Building automation, AI-driven tools, and backend systems that actually solve problems
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Junior%20Backend%20%2F%20Automation%20Roles-brightgreen?style=flat-square)
@@ -20,12 +20,13 @@ Building automation, AI-driven tools, and backend systems that actually solve pr
 - **[AI Agent](https://github.com/deanhattenhauer/AI-Agent)** — LLM-powered autonomous agent using Google Gemini API
 - **[ghost_key](https://github.com/deanhattenhauer/ghost_key)** — Educational password cracking tool (Python, rebuilding in Go)
 - **[Static Site Generator](https://github.com/deanhattenhauer/Static-Site-Generator)** — Markdown-to-HTML generator built from scratch
+- **Flask + MySQL Inventory App** — Full-stack CRUD app deployed via Docker Compose on my home lab server, with persistent volumes and Tailscale access
 
 ---
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=go,python,js,postgres,mysql,docker,git)
+![Skills](https://skillicons.dev/icons?i=go,python,js,flask,postgres,mysql,docker,git)
 
 ### Language Usage
 
