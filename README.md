@@ -16,10 +16,10 @@ Building automation, AI-driven tools, and backend systems that actually solve pr
 
 ### Featured Projects
 
-- **[Chirpy](https://github.com/deanhattenhauer/chirpy)** — REST API in Go with JWT auth, PostgreSQL, full CRUD
-- **[AI Agent](https://github.com/deanhattenhauer/AI-Agent)** — LLM-powered autonomous agent using Google Gemini API
-- **[ghost_key](https://github.com/deanhattenhauer/ghost_key)** — Educational password cracking tool (Python, rebuilding in Go)
-- **[Static Site Generator](https://github.com/deanhattenhauer/Static-Site-Generator)** — Markdown-to-HTML generator built from scratch
+- **[Chirpy](https://github.com/deanhattenhauer/chirpy)** - REST API in Go with JWT auth, PostgreSQL, full CRUD
+- **[AI Agent](https://github.com/deanhattenhauer/AI-Agent)** - LLM-powered autonomous agent using Google Gemini API
+- **[ghost_key](https://github.com/deanhattenhauer/ghost_key)** - Educational password cracking tool (Python, rebuilding in Go)
+- **[Static Site Generator](https://github.com/deanhattenhauer/Static-Site-Generator)** - Markdown-to-HTML generator built from scratch
 
 ---
 
