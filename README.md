@@ -20,7 +20,6 @@ Building automation, AI-driven tools, and backend systems that actually solve pr
 - **[AI Agent](https://github.com/deanhattenhauer/AI-Agent)** — LLM-powered autonomous agent using Google Gemini API
 - **[ghost_key](https://github.com/deanhattenhauer/ghost_key)** — Educational password cracking tool (Python, rebuilding in Go)
 - **[Static Site Generator](https://github.com/deanhattenhauer/Static-Site-Generator)** — Markdown-to-HTML generator built from scratch
-- **Flask + MySQL Inventory App** — Full-stack CRUD app deployed via Docker Compose on my home lab server, with persistent volumes and Tailscale access
 
 ---
 
