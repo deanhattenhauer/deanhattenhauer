@@ -1,10 +1,10 @@
 name: Generate Stats
- 
+
 on:
   schedule:
-    - cron: '0 6 * * *'
-  workflow_dispatch:
- 
+    - cron: '0 6 * * *'   # runs daily at 6am UTC
+  workflow_dispatch:        
+
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
@@ -13,14 +13,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
- 
+
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=deanhattenhauer&layout=compact&hide_border=true
+          options: username=deanhattenhauer&hide_border=true&theme=transparent&card_width=500
           path: profile/top-langs.svg
- 
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -28,4 +28,3 @@ jobs:
           git add profile/top-langs.svg
           git diff --staged --quiet || git commit -m "Update top languages stat card"
           git push
- 
