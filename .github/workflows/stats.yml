@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=deanhattenhauer&hide_border=true&theme=transparent&card_width=500
+          options: username=deanhattenhauer&layout=compact&hide_border=true&theme=transparent&langs_count=4
           path: profile/top-langs.svg
 
       - name: Commit and push if changed
