@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dean Hattenhauer
 
-**Backend Developer & Infrastructure Engineer — Python & Go**
+**Backend Developer & Infrastructure Engineer - Python & Go**
 Building automation, AI-driven tools, and backend systems that actually solve problems
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Junior%20Backend%20%2F%20Automation%20Roles-brightgreen?style=flat-square)
@@ -26,6 +26,10 @@ Building automation, AI-driven tools, and backend systems that actually solve pr
 ### Stack
 
 ![Skills](https://skillicons.dev/icons?i=go,python,js,flask,postgres,mysql,docker,git)
+
+### Language Usage
+
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
