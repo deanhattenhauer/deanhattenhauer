@@ -27,10 +27,6 @@ Building automation, AI-driven tools, and backend systems that actually solve pr
 
 ![Skills](https://skillicons.dev/icons?i=go,python,js,flask,postgres,mysql,docker,git)
 
-### Language Usage
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanhattenhauer&layout=compact&theme=default&hide_border=true)
-
 ---
 
 ### Connect
