@@ -16,6 +16,7 @@ Building automation, AI-driven tools, and backend systems that actually solve pr
 
 ### Featured Projects
 
+- **[Reservation API](https://github.com/deanhattenhauer/reservation-api)** - Full-featured Go REST API with JWT auth, role-based admin actions, conflict detection, CAPTCHA, and async email notifications
 - **[Chirpy](https://github.com/deanhattenhauer/chirpy)** - REST API in Go with JWT auth, PostgreSQL, full CRUD
 - **[AI Agent](https://github.com/deanhattenhauer/AI-Agent)** - LLM-powered autonomous agent using Google Gemini API
 - **[ghost_key](https://github.com/deanhattenhauer/ghost_key)** - Educational password cracking tool (Python, rebuilding in Go)
