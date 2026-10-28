@@ -3,9 +3,7 @@
 **Backend Developer - Python & Go**
 Building automation, AI-driven tools, and backend systems that actually solve problems
 
-- 🌎 Based in Arkansas, USA
 - 💻 Resume & background at [deanhattenhauer.dev](https://deanhattenhauer.dev/)
-- 📧 Reach me at [dean.hattenhauer@outlook.com](mailto:dean.hattenhauer@outlook.com)
 - 🧠 Background in QA and data analysis, now building backend systems in Python and Go
 - 🤖 Currently exploring agentic AI workflows and LLM tool integration
 - 🛠️ Self-hosted home lab running Linux, Docker, and a full monitoring stack
