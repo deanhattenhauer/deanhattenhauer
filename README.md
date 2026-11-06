@@ -1,4 +1,4 @@
-### Hi 👋 I'm Dean Hattenhauer
+### Hi 👋 I'm Dean
 
 **Backend Developer - Python & Go**
 Building automation, AI-driven tools, and backend systems that actually solve problems
